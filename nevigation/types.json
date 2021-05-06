@@ -1,0 +1,55 @@
+[
+    {
+        "id" : 1,
+        "key" : "Chinese",
+        "checked" : false
+    },
+    {
+       
+        "id" : 2,
+        "key" : "North Indian",
+        "checked" : false
+    },
+    {
+      
+        "id" : 3,
+        "key" : "Rolls",
+        "checked" : false
+    },
+    {
+      
+        "id" : 4,
+        "key" : "Biriyani",
+        "checked" : false
+    },
+    {
+      
+        "id" : 5,
+        "key" : "Bengali",
+        "checked" : false
+    },
+    {
+      
+        "id" : 6,
+        "key" : "Ice Cream",
+        "checked" : false
+    },
+    {
+      
+        "id" : 7,
+        "key" : "Desserts",
+        "checked" : false
+    },
+    {
+      
+        "id" : 3,
+        "key" : "Fast Food",
+        "checked" : false
+    },
+    {
+      
+        "id" : 8,
+        "key" : "Continental",
+        "checked" : false
+    }
+]
